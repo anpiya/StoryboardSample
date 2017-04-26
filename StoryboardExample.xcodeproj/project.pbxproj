@@ -15,6 +15,7 @@
 		25327C3E1EAF187F00ED0005 /* BlueViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25327C3D1EAF187F00ED0005 /* BlueViewController.swift */; };
 		25327C401EAF1C4C00ED0005 /* PinkViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25327C3F1EAF1C4C00ED0005 /* PinkViewController.swift */; };
 		25327C421EAF1CFF00ED0005 /* GreyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25327C411EAF1CFF00ED0005 /* GreyViewController.swift */; };
+		25327C441EAF36B800ED0005 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25327C431EAF36B800ED0005 /* LoginViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		25327C3D1EAF187F00ED0005 /* BlueViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BlueViewController.swift; sourceTree = "<group>"; };
 		25327C3F1EAF1C4C00ED0005 /* PinkViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PinkViewController.swift; sourceTree = "<group>"; };
 		25327C411EAF1CFF00ED0005 /* GreyViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GreyViewController.swift; sourceTree = "<group>"; };
+		25327C431EAF36B800ED0005 /* LoginViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				25327C3D1EAF187F00ED0005 /* BlueViewController.swift */,
 				25327C3F1EAF1C4C00ED0005 /* PinkViewController.swift */,
 				25327C411EAF1CFF00ED0005 /* GreyViewController.swift */,
+				25327C431EAF36B800ED0005 /* LoginViewController.swift */,
 			);
 			path = StoryboardExample;
 			sourceTree = "<group>";
@@ -145,6 +148,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				25327C441EAF36B800ED0005 /* LoginViewController.swift in Sources */,
 				25327C401EAF1C4C00ED0005 /* PinkViewController.swift in Sources */,
 				25327C421EAF1CFF00ED0005 /* GreyViewController.swift in Sources */,
 				25327C2E1EAF117F00ED0005 /* ViewController.swift in Sources */,
